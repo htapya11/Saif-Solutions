@@ -18,6 +18,6 @@ Third, the new ArrayList is written into a new CSV file in the form of a chart. 
 
 ### Improvements
 
-At first, I opted to store the original data in a HashMap instead of an ArrayList of objects. While this original method was faster, the code was much cleaner and easier to understand when I re-wrote it using an ArrayList of objects. Ultimately, by re-writing the code using an ArrayList of objects instead of a HashMap I sacrificed speed for readability and making it easier to scale and refactor in the future.
+At first, I opted to store the original data in a HashMap instead of an ArrayList of objects. While this original method was faster, the code was much cleaner and easier to understand when I re-wrote it using an ArrayList of objects. Ultimately, by re-writing the code using an ArrayList of objects instead of a HashMap, I sacrificed speed in favor of readability, scalability as well as being able to easily refactor it in the future.
 
 
