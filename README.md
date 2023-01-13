@@ -35,8 +35,12 @@ At first, I opted to store the original data in a HashMap instead of an ArrayLis
 
 Download the source code, go to the TransactionDriver.java file and run the program. The driver class calls the methods readFile, getOutputArray, writeFile and sendEmail from the TransactionSubtotals class.
 
+<br>
 
 ## CRUD RESTful API
 
 Inputs financial transaction data into a database
+
+![New Note](https://user-images.githubusercontent.com/85238036/212412499-712bd653-5f89-4cc8-b990-c9a1f64d72b4.jpeg)
+
 
