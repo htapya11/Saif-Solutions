@@ -16,7 +16,7 @@ First, I created a method called readFile which reads in the original CSV file w
 
 Second, once all the rows have been read, they are modified by the getOutputArray method which groups all similar transactions and stores it into an new ArrayList of objects. 
 
-Third, the new ArrayList is written into a new CSV file in the form of a chart. Then, in the final method, the JavaMail API is called to send this new CSV file as an email. 
+Third, the new ArrayList is written into a new CSV file in the form of a chart. Then, in the final method, the JavaMail API is called to send this new CSV file as an email. In order to use the JavaMail API I realized that I needed to use use Maven and add the JavaMail dependency to the pom.xml file. 
 
 ### Improvements
 
