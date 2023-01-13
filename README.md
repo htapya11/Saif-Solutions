@@ -4,7 +4,8 @@
 
 Calculates subtotals from a file containing financial transactions
 
-![Expenses](https://user-images.githubusercontent.com/85238036/212371938-7aa764fb-d55d-47e6-bb95-0763257f17ed.jpeg) ![New Note](https://user-images.githubusercontent.com/85238036/212372106-5c9122d5-2f0e-4663-aca0-9e1774f548a6.jpeg)
+![Expenses](https://user-images.githubusercontent.com/85238036/212371938-7aa764fb-d55d-47e6-bb95-0763257f17ed.jpeg) ![New Note](https://user-images.githubusercontent.com/85238036/212372106-5c9122d5-2f0e-4663-aca0-9e1774f548a6.jpeg)![New Note](https://user-images.githubusercontent.com/85238036/212373250-f2bd3d59-f025-4a42-877a-176c9bf3de57.jpeg)
+
 
 
 ### Overview
